@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hallo, ich bin Max!
 
-<!--
-**mdornseif/mdornseif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 he/his
+- 🌆 Cologne
+- 🇩🇪🇬🇧🇪🇸🇫🇷
+- 💬 Ask me about dependable distributed systems
+- 📫 How to reach me: meet me for a 🍺
+- ⚡ Fun fact: found the lagest cave in Norhrhine-Westfalia
+- 🔭 Backoffice-frontend developer
+- 🛠 Back-end developer
+- 🏗 Infrastructure developer & tool builder
+- 🕹 Embedded developer
 
-Here are some ideas to get you started:
+--- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❤️ TypeScript, React, NodeJS, AppEngine, GraphQL, JSONSchema
+
+💔 Python, REST, Perl, C, Postscript, NoSQL, JavaScript, Modula3, Dylan, Oberon
+
+🤔 Rust, Go, RPi, R, Processing, Computer Vision, Lua
+
+😒 PHP/FI, Ruby, C++, Basic, AS/400, Sybase, MySQL
