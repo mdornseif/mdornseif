@@ -38,9 +38,6 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_indepth: no
           plugin_lines: yes
-          plugin_projects: yes
-          plugin_projects_descriptions: yes
-          plugin_projects_limit: 8
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 2
           plugin_stackoverflow_lines: 4
@@ -50,3 +47,5 @@ jobs:
           repositories: 250
           repositories_affiliations: ''
           # repositories_affiliations: "owner"
+          plugin_notable: yes
+          plugin_notable_indepth: yes
