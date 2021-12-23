@@ -5,7 +5,7 @@
 - 🇩🇪🇬🇧🇪🇸🇫🇷
 - 💬 Ask me about dependable distributed systems
 - 📫 How to reach me: meet me for a 🍺
-- ⚡ Fun fact: found the lagest cave in Norhtrhine-Westfalia
+- ⛏ Fun fact: found the lagest cave in Northrhine-Westfalia
 - 🔭 Backoffice-frontend developer
 - 🛠 Back-end developer
 - 🏗 Infrastructure developer & tool builder
