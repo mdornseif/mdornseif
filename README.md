@@ -11,7 +11,7 @@
 - 🏗 Infrastructure developer & tool builder
 - 🕹 Embedded developer
 
---- 
+---
 
 ❤️ TypeScript, React, NodeJS, AppEngine, GraphQL, JSONSchema
 
@@ -20,3 +20,7 @@
 🤔 Rust, Go, RPi, R, Processing, Computer Vision, Lua
 
 😒 PHP/FI, Ruby, C++, Basic, AS/400, Sybase, MySQL
+
+<!-- If you're using "master" as default branch -->
+
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
