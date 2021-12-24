@@ -10,7 +10,7 @@
 - 🛠 Back-end developer
 - 🏗 Infrastructure developer & tool builder
 - 🕹 Embedded developer
-
+- 🎭 Cybernetic art
 ---
 
 ❤️ TypeScript, React, NodeJS, AppEngine, GraphQL, JSONSchema
@@ -20,7 +20,5 @@
 🤔 Rust, Go, RPi, R, Processing, Computer Vision, Lua
 
 😒 PHP/FI, Ruby, C++, Basic, AS/400, Sybase, MySQL
-
-<!-- If you're using "master" as default branch -->
 
 ![Metrics](https://raw.githubusercontent.com/mdornseif/mdornseif/main/github-metrics.svg)
