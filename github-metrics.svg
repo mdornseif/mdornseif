@@ -3926,7 +3926,7 @@ What am I missing to test the `` component? Seems pretty standard to me.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Dec 2021, 06:05:56 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 24 Dec 2021, 07:05:55 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
