@@ -13,7 +13,7 @@
 - 🎭 Cybernetic art
 ---
 
-❤️ TypeScript, React, NodeJS, AppEngine, GraphQL, JSONSchema
+❤️ TypeScript, React, NodeJS, AppEngine, GraphQL, JSONSchema, Twisted/asyncore
 
 💔 Python, REST, Perl, C, Postscript, NoSQL, JavaScript, Modula3, Dylan, Oberon
 
