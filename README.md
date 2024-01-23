@@ -32,4 +32,18 @@ Current work:
 - ERP / EDIFACT / E-Commerce integration and automation.
 - Porting of legacy Python 2 Codebases to Python 3 and Node
 
+![Metrics](https://github-readme-stats-mdornseif.vercel.app/api?username=mdornseif&show_icons=true&include_all_commits=true)
+
+Interesting Projects over the years:
+
+- Mobile Connectivity and management of Embedded Systems in Public Artworks.
+- Hard-/Software for Forklift automation in large Warehouses.
+- AR Gaming: play PONG by running around the yard with your iPhone.
+- VoIP Systems and Callcenter Automation.
+- DevOps in the age of Puppet and Ansible.
+- Offensive Information security.
+- Honeypots / Honeynets and breaking them.
+- r00ting an iPod via Firewire.
+- Update System for embedded routers.
+
 ![Metrics](https://raw.githubusercontent.com/mdornseif/mdornseif/main/github-metrics.svg)
